@@ -1,0 +1,18 @@
+*{font-family:arial,
+ "lucida console", sans-serif;
+}
+
+h1{text-align: center;
+	
+}
+#t01{width:75%;
+	margin-top: 5%;
+}
+#t01 td{text-align: center;
+}
+
+body {
+        margin: 10%; 
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #E7DFDE;
+      }
